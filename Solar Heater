@@ -10,6 +10,16 @@
 
 <h1>Condenser</h1>
 
+<p><strong>Curator:</strong> Ehsan Keyvani</p>
+
+<p><strong>Institution:</strong> University of Colorado Boulder</p>
+
+<p><strong>Description:</strong></p>
+
+<p>
+Interactive augmented reality model of a solar heater for educational use.
+Rotate, zoom, and place the model into your environment using mobile AR. Special Thanks to Clint Carlson.
+</p>
 <model-viewer
   src="vigreux_columm_allhin__graham_condensers.glb"
   ios-src="Vigreux_Columm_Allhin__Graham_Condensers.usdz"
