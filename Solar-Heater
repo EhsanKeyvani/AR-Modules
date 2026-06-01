@@ -14,11 +14,10 @@
 
 <p><strong>Institution:</strong> University of Colorado Boulder</p>
 
-<p><strong>Description:</strong></p>
-
+<p><strong>Description:</strong> Interactive augmented reality model of a solar heater for educational use.
+Rotate, zoom, and place the model into your environment using mobile AR. </p>
 <p>
-Interactive augmented reality model of a solar heater for educational use.
-Rotate, zoom, and place the model into your environment using mobile AR. Special Thanks to Clint Carlson.
+Special Thanks to Clint Carlson.
 </p>
 <model-viewer
   src="vigreux_columm_allhin__graham_condensers.glb"
