@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script type="module"
+    src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
+  </script>
+</head>
+
+<body>
+
+<h1>Evaporative Cooler</h1>
+
+<p><strong>Curator:</strong> Ehsan Keyvani</p>
+
+<p><strong>Institution:</strong> University of Colorado Boulder</p>
+
+<p><strong>Description:</strong> Interactive augmented reality model of evaporative cooler for educational use.
+Rotate, zoom, and place the model into your environment using mobile AR. </p>
+<p>
+Special Thanks to Clint Carlson.
+</p>
+<model-viewer
+  src="structure_of_ice.glb"
+  ios-src="Structure_of_ice.usdz"
+  ar
+  auto-rotate
+  camera-controls
+width="1000px"
+            height="1000px">
+</model-viewer>
+
+<p><strong>Original Sketchfab Model:</strong>
+<a href="https://sketchfab.com/3d-models/structure-of-ice-a805aa2269ca46fdb75720f84d500753" target="_blank">
+View on Sketchfab
+</a>
+</p>
+  
+</body>
+</html>
